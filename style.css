@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    width: 150px;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+
+button {
+    cursor: pointer;
+}
